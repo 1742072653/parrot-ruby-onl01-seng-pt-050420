@@ -1,4 +1,4 @@
-def parrot(phare = "Squawk!")
-  puts parrot
-  return phare
+def parrot(argument = "Squawk!")
+  puts argument
+  return argument
 end
